@@ -1,5 +1,6 @@
 # Web-scraping-
-Webscrapping
+
+
 Web scraping, also known as web harvesting or web data extraction, is the automated process of gathering information from websites. Using specialized software or programming scripts, data is extracted from web pages, which can include text, images, videos, links, and more. Web scraping enables the extraction of large amounts of data swiftly and efficiently, providing valuable insights for various purposes, such as market research, competitive analysis, data analysis, and creating datasets for machine learning models. However, it's essential to comply with ethical and legal guidelines and respect the terms of use for the websites being scraped.
 
 Conclusion:
